@@ -1,0 +1,6 @@
+Steps to execute my application
+
+1. After extracting zip code, command of npm install have to run
+2. For seeing tables, extension of SQLite is used in VScode,ctrl+shift+p--> run server then choose anshu.db and then tables are played on sqliteite explorer
+3. Run the server by npm start command
+4. Then you can see any route in postman by providing the exact syntax given
